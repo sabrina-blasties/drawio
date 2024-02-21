@@ -1,0 +1,16 @@
+﻿event_name,var,val
+file_download,text,<<link text>>
+file_download,link_url,<<href or link>>
+file_download,link_type,"""link_download"""
+file_download,file_name,<<file name>>
+file_download,file_extension,<<file extension>>
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
